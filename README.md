@@ -41,3 +41,4 @@ The application will be available at `http://localhost:8000`
 - Translate Hindi to Japanese
 - Generate subtitles and burn them into videos
 # subtitle-service
+# subtitle-service
