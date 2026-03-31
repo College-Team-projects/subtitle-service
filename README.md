@@ -42,3 +42,4 @@ The application will be available at `http://localhost:8000`
 - Generate subtitles and burn them into videos
 # subtitle-service
 # subtitle-service
+# subtitle-service
