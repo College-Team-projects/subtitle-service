@@ -51,14 +51,6 @@ This project was built as a team. Gabriel Harada Dias handled technical research
 | Gabriel Harada Dias | Technical research, feature implementation, backend (Flask, Whisper integration, TMDB/YouTube API, database) / 技術検証、機能実装、バックエンド（Flask、Whisper連携、TMDB・YouTube API、データベース） |
 | [Teammate name]     | [Frontend / role] / [フロントエンド・担当範囲]                                                                                                                                                         |
 
-This project was built as a team. Gabriel Harada Dias handled the entire backend.  
-本プロジェクトはチームで開発しました。バックエンド全体をGabriel Harada Diasが担当しました。
-
-| Name / 氏名         | Role / 担当範囲                                                                                                                            |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Gabriel Harada Dias | Backend (Flask, Whisper integration, TMDB/YouTube API, database) / バックエンド全体（Flask、Whisper連携、TMDB・YouTube API、データベース） |
-| [Teammate name]     | [Frontend / role] / [フロントエンド・担当範囲]                                                                                             |
-
 ## Setup Instructions / セットアップ手順
 
 ### 1. Install Dependencies / 依存パッケージのインストール
