@@ -49,7 +49,7 @@ This project was built as a team. Gabriel Harada Dias handled technical research
 | Name / 氏名         | Role / 担当範囲                                                                                                                                                                                        |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Gabriel Harada Dias | Technical research, feature implementation, backend (Flask, Whisper integration, TMDB/YouTube API, database) / 技術検証、機能実装、バックエンド（Flask、Whisper連携、TMDB・YouTube API、データベース） |
-| [Teammate name]     | [Frontend / role] / [フロントエンド・担当範囲]                                                                                                                                                         |
+| Yuki Hirata | [Frontend / role] / [フロントエンド・担当範囲]                                                                                                                                                         |
 
 ## Setup Instructions / セットアップ手順
 
