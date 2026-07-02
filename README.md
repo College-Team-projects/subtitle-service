@@ -43,6 +43,14 @@ OpenAI Whisperで音声を文字起こしし、ヒンディー語から日本語
 
 ## Contributions / 開発者・担当範囲
 
+This project was built as a team. Gabriel Harada Dias handled technical research, feature implementation, and the backend.
+本プロジェクトはチームで開発しました。技術検証・機能実装・バックエンドをGabriel Harada Diasが担当しました。
+
+| Name / 氏名         | Role / 担当範囲                                                                                                                                                                                        |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Gabriel Harada Dias | Technical research, feature implementation, backend (Flask, Whisper integration, TMDB/YouTube API, database) / 技術検証、機能実装、バックエンド（Flask、Whisper連携、TMDB・YouTube API、データベース） |
+| [Teammate name]     | [Frontend / role] / [フロントエンド・担当範囲]                                                                                                                                                         |
+
 This project was built as a team. Gabriel Harada Dias handled the entire backend.  
 本プロジェクトはチームで開発しました。バックエンド全体をGabriel Harada Diasが担当しました。
 
