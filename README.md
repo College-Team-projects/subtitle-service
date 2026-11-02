@@ -91,7 +91,8 @@ The application will be available at / 起動後は以下でアクセスでき�
 
 ## Author / 作者
 
-Gabriel Harada Dias, Yuki Hirata
+Gabriel Harada Dias,
+Yuki Hirata
 Kyoto Seika University, 2027 graduation  
 GitHub: [@nosfer4tu](https://github.com/nosfer4tu)
 GitHub: [@htykruffy](https://github.com/htykruffy)
