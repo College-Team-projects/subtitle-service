@@ -43,13 +43,13 @@ OpenAI Whisperで音声を文字起こしし、ヒンディー語から日本語
 
 ## Contributions / 開発者・担当範囲
 
-This project was built as a team. Gabriel Harada Dias handled technical research, feature implementation, and the backend.
-本プロジェクトはチームで開発しました。技術検証・機能実装・バックエンドをGabriel Harada Diasが担当しました。
+This project was built as a team. Gabriel Harada Dias handled technical research, feature implementation, and the backend.Hirata handled service planning, UI design, and front-end implementation.
+本プロジェクトはチームで開発しました。技術検証・機能実装・バックエンドをGabriel Harada Diasが担当しました。サービスの企画立案、UI設計、フロントエンド実装を平田が担当しました。
 
 | Name / 氏名         | Role / 担当範囲                                                                                                                                                                                        |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Gabriel Harada Dias | Technical research, feature implementation, backend (Flask, Whisper integration, TMDB/YouTube API, database) / 技術検証、機能実装、バックエンド（Flask、Whisper連携、TMDB・YouTube API、データベース） |
-| Yuki Hirata | [Frontend / role] / [フロントエンド・担当範囲]                                                                                                                                                         |
+| Yuki Hirata | [service planning, UI design, front-end implementation] / [サービスの企画立案、UI設計、フロントエンド実装]                                                                                                                                                         |
 
 ## Setup Instructions / セットアップ手順
 
@@ -91,6 +91,7 @@ The application will be available at / 起動後は以下でアクセスでき�
 
 ## Author / 作者
 
-Gabriel Harada Dias
+Gabriel Harada Dias, Yuki Hirata
 Kyoto Seika University, 2027 graduation  
 GitHub: [@nosfer4tu](https://github.com/nosfer4tu)
+GitHub: [@htykruffy]
