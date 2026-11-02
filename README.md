@@ -94,4 +94,4 @@ The application will be available at / 起動後は以下でアクセスでき�
 Gabriel Harada Dias, Yuki Hirata
 Kyoto Seika University, 2027 graduation  
 GitHub: [@nosfer4tu](https://github.com/nosfer4tu)
-GitHub: [@htykruffy]
+GitHub: [@htykruffy](https://github.com/htykruffy)
